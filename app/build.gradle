@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "ma.ensab.first_tp"
     compileSdk 32
 
     defaultConfig {
