@@ -17,7 +17,7 @@ Il s’agit d’un projet éducatif simple, idéal pour débuter avec **Android 
 ## 📸 Capture d’écran
 
 ### Écran principal
-![Screenshot](./app/screenshots/euro-to-dh.png)
+![Screenshot](app/screenshots/euro-to--dh.png)
 ---
 
 ## ⚙️ Prérequis
